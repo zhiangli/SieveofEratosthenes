@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SieveofEratosthenes</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_show_result">ShowResult</string>
+    <string name="title">Sieve of Eratosthenes Algorithm</string>
+    <string name="hint">Please input an Integer(>1), then you can get all the prime numbers less then you input</string>
+    <string name="cal">Calculate!</string>
+    <string name="resultTitle">Result by Sieve of Eratosthenes Algorithm</string>
+    <string name="back">Go Back</string>
+
+    <color name="lightBlue">#87CEFA</color>
+
+
+</resources>
