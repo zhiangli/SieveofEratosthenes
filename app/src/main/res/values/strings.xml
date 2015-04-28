@@ -11,7 +11,8 @@
     <string name="resultTitle">Result by Sieve of Eratosthenes Algorithm</string>
     <string name="back">Go Back</string>
 
-    <color name="lightBlue">#87CEFA</color>
+    <color name="lightBlue">#cde1e7</color>
+    <color name="lightGreen">#dbf0db</color>
 
 
 </resources>
